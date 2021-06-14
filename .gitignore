@@ -1,0 +1,9 @@
+.idea
+*.pyc
+*.txt
+*.log
+test.py
+scrape.py
+adhub-venv
+test-grn.py
+*.csv
